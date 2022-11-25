@@ -45,6 +45,6 @@ Please refer to Kubernetes [Github workflow guide] for more details.
 [GoDoc]: https://godoc.org/k8s.io/autoscaler
 [GoDoc Widget]: https://godoc.org/k8s.io/autoscaler?status.svg
 [Github workflow guide]: https://github.com/kubernetes/community/blob/master/contributors/guide/github-workflow.md
-
 #remove this comment
 #this is a comment to version 9.30
+
